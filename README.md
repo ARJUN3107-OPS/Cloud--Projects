@@ -39,4 +39,4 @@ sql dump file:
 
 This project enhanced my skills in AWS infrastructure, automation, and scalable app deployment. Looking forward to tackling more cloud challenges! 🌐
 
-
+MAKE SURE TO DELETE ALL THE RESOURCES AFTER THE PROJECT IS COMPLETED TO AVOID CHARGES IN YOUR AWS ACCOUNT.
